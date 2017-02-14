@@ -211,6 +211,7 @@
 "C:\Development\GitHub\SportsStore\src\SportsStore\Program.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Startup.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Controllers\ProductController.cs"
+"C:\Development\GitHub\SportsStore\src\SportsStore\Infrastructure\PageLinkTagHelper.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\20170210154214_Initial.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\20170210154214_Initial.Designer.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\ApplicationDbContextModelSnapshot.cs"
@@ -220,3 +221,5 @@
 "C:\Development\GitHub\SportsStore\src\SportsStore\Models\IProductRepository.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Models\Product.cs"
 "C:\Development\GitHub\SportsStore\src\SportsStore\Models\SeedData.cs"
+"C:\Development\GitHub\SportsStore\src\SportsStore\Models\ViewModels\PagingInfo.cs"
+"C:\Development\GitHub\SportsStore\src\SportsStore\Models\ViewModels\ProductsListViewModel.cs"

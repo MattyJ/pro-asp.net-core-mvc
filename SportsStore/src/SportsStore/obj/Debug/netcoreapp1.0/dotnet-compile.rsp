@@ -214,6 +214,7 @@
 --resource:"C:\Development\GitHub\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStoredotnet-compile.deps.json",SportsStore.deps.json
 C:\Development\GitHub\SportsStore\src\SportsStore\Program.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Startup.cs
+C:\Development\GitHub\SportsStore\src\SportsStore\Components\NavigationMenuViewComponent.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Controllers\ProductController.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Infrastructure\PageLinkTagHelper.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\20170210154214_Initial.cs

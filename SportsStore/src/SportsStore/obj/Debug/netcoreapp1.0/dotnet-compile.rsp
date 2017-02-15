@@ -221,6 +221,8 @@ C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\20170210154214_Init
 C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\20170210154214_Initial.Designer.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Migrations\ApplicationDbContextModelSnapshot.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Models\ApplicationDbContext.cs
+C:\Development\GitHub\SportsStore\src\SportsStore\Models\Cart.cs
+C:\Development\GitHub\SportsStore\src\SportsStore\Models\CartLine.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Models\EFProductRepository.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Models\FakeProductRepository.cs
 C:\Development\GitHub\SportsStore\src\SportsStore\Models\IProductRepository.cs

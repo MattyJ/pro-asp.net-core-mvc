@@ -212,6 +212,7 @@
 -r:"C:\Development\GitHub\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll"
 "C:\Development\GitHub\SportsStore\SportsStore.Tests\CartTests.cs"
 "C:\Development\GitHub\SportsStore\SportsStore.Tests\NavigationMenuViewComponentTests.cs"
+"C:\Development\GitHub\SportsStore\SportsStore.Tests\OrderControllerTests.cs"
 "C:\Development\GitHub\SportsStore\SportsStore.Tests\PageLinkTagHelperTests.cs"
 "C:\Development\GitHub\SportsStore\SportsStore.Tests\ProductControllerTests.cs"
 "C:\Development\GitHub\SportsStore\SportsStore.Tests\Properties\AssemblyInfo.cs"
